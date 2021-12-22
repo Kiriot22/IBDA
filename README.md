@@ -11,6 +11,10 @@ Never fully finished
 * Stack inspector
 
 # Never finished features
+* Encrypted constants support
+* Non-synapse mode
+* Breakpoints which print and don't pause the thread
+* "Filter" for automatically changing nth breakpoint's value
 * Way of switching between running threads
 * Pause button
 * Stack inspector's viewing functionality
